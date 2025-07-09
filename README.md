@@ -18,19 +18,19 @@ A **Recipe Finder Web Application** built with **HTML5**, **CSS3**, and **Vanill
 ## 📸 Preview
 
 ### 🖼️ Screenshot 1 – Landing Page (no search yet)  
-![Recipe App – Landing](./Screenshot1_Landing.png)
+![Recipe App – Landing](./Screenshot1.png)
 
 ### 🖼️ Screenshot 2 – Search Results Grid (“chicken”)  
-![Recipe App – Search Results](./Screenshot2_Results.png)
+![Recipe App – Search Results](./Screenshot2.png)
 
 ### 🖼️ Screenshot 3 – Recipe Modal (“Chicken Handi” ingredients)  
-![Recipe App – Modal](./Screenshot3_Modal.png)
+![Recipe App – Modal](./Screenshot3.png)
 
 ### 🖼️ Screenshot 4 – Single Result (“pizza”)  
-![Recipe App – Single Result](./Screenshot4_SingleResult.png)
+![Recipe App – Single Result](./Screenshot4.png)
 
 ### 🖼️ Screenshot 5 – Another Recipe Modal (“Jerk Chicken with Rice & Peas”)  
-![Recipe App – Modal 2](./Screenshot5_Modal2.png)
+![Recipe App – Modal 2](./Screenshot5.png)
 
 ---
 
